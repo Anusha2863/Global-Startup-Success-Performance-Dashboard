@@ -75,16 +75,4 @@ The Power BI dashboard includes:
 ```bash
 pip install pandas numpy matplotlib seaborn
 
-1.SQL
 
-*Load the cleaned CSV into PostgreSQL / MySQL / SQL Server
-
-*Execute the provided SQL queries
-
-2.Power BI
-
-.Open the Power BI file
-
-.Refresh the data source
-
-.Explore dashboard insights using slicers
