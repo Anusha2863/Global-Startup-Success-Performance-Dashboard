@@ -188,3 +188,15 @@ This project demonstrates the ability to:
 ```bash
 pip install pandas numpy matplotlib seaborn
 
+<img width="1227" height="856" alt="Screenshot 2026-02-20 081248" src="https://github.com/user-attachments/assets/7e468b94-7d0d-4b2e-80a7-1c431fcdfc20" />
+
+
+
+power
+<img width="1160" height="821" alt="Screenshot 2026-02-20 082333" src="https://github.com/user-attachments/assets/471b7009-e417-4fef-87aa-e1d34cba7e20" />
+
+
+aws
+
+<img width="1212" height="865" alt="Screenshot 2026-02-20 084025" src="https://github.com/user-attachments/assets/96a76831-72fe-4435-a43c-6f9f0ebb8381" />
+
